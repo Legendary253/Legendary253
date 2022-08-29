@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legendary253
 - 👀 I’m interested in web development starting with front end dev
-- 🌱 I’m currently learning html and css 
+- 🌱 I’m currently learning html, css, react js and native
 - 💞️ I’m looking to collaborate on designing a landing page
 - 📫 How to reach me is via my email @ chinedaniel2002@gmail.com
 
